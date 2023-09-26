@@ -1,1 +1,1 @@
-See project managment here : ![https://github.com/orgs/mru-ccc/projects/1]
+See project managment here : [https://github.com/orgs/mru-ccc/projects/1]
